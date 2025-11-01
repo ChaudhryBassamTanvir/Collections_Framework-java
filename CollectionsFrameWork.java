@@ -15,6 +15,11 @@ public class CollectionsFrameWork {
     // addAll
     // removeAll
     // clear
+
+
+    //list interface
+    //Array list | LinkedList | Vertor
+                                // Stack   (Stack is belong to vector)
     
     }
 }
