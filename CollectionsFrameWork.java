@@ -20,6 +20,18 @@ public class CollectionsFrameWork {
     //list interface
     //Array list | LinkedList | Vertor
                                 // Stack   (Stack is belong to vector)
-    
-    }
+  
+   
+   
+                                //Queue FIFO
+                                //PriorityQueue | LinkedList | Deque(double ended queue)
+                                //                              ArrayDeque
+
+
+
+                                //set Interface or map interface
+                                //HashSet LinkedHashset Sortedset
+                                                //      TreeSet
+   
+                            }
 }
